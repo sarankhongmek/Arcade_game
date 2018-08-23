@@ -37,6 +37,9 @@ let player = {
   },
   update: function(){
 
+  },
+  render: function() {
+    
   }
 };
 
