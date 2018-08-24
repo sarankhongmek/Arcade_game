@@ -23,6 +23,9 @@ arrows key next to the num pad
 ⬇️ Down Arrow to move down
 
 
+## Play
+You can click this link to play https://sarankhongmek.github.io/Arcade_game/
+
 
 ## Goal
 The player must make it across to the water without  getting eaten by the beetles then the player wins. If the player get eaten, the player restart at starting position.
