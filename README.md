@@ -13,11 +13,15 @@ Classic Arcade Game Clone project using canvas
 
 arrows key next to the num pad
 ⬅️ Left Arrow to move left
+
 ➡️ Right Arrow to move right
+
 ⬆️ Up Arrow to move up
+
 ⬇️ Down Arrow to move down
 
 
+
 ## Goal
-To reach the water without getting eaten by the beetles 
+The player must make it across to the water without  getting eaten by the beetles then the player wins. If the player get eaten, the player restart at starting position.
 
