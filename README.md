@@ -12,6 +12,8 @@ Classic Arcade Game Clone project using canvas
 ## Game control (Keyboard required)
 
 arrows key next to the num pad
+
+
 ⬅️ Left Arrow to move left
 
 ➡️ Right Arrow to move right
